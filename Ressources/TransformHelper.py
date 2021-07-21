@@ -15,7 +15,6 @@ def apply_perspective_transform_matrix(matrix, img_size=(4096,4096), pixel_coord
     Compare https://docs.opencv.org/4.5.2/da/d54/group__imgproc__transform.html#ga20f62aa3235d869c9956436c870893ae 
     '''
     
-    print("Calculating Perspective Transform...")
 
     # Dataframe not provided 
     if dataframe is None:
@@ -36,6 +35,8 @@ def apply_perspective_transform_matrix(matrix, img_size=(4096,4096), pixel_coord
         # List of pixels
         else:
 
+            print("Calculating Perspective Transform for pixel list...")
+
             # Define method from above again to be able to apply faster to list slices
             def apply_transform(arg):
 
@@ -50,6 +51,8 @@ def apply_perspective_transform_matrix(matrix, img_size=(4096,4096), pixel_coord
     
     # Dataframe provided 
     else:
+
+        print("Calculating Perspective Transform for DataFrame...")
 
         # Progress bar 
         tqdm.pandas()
