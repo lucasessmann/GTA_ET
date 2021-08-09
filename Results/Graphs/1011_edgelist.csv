@@ -16,7 +16,8 @@ Building_169,Building_167
 Building_171,Building_169
 Building_174,Building_171
 Building_173,Building_174
-Building_171,Building_173
+Building_174,Building_173
+Building_171,Building_174
 Building_172,Building_171
 Building_171,Building_172
 TaskBuilding_41,Building_171
@@ -25,7 +26,8 @@ TaskBuilding_40,Building_176
 Building_163,TaskBuilding_40
 TaskBuilding_40,Building_163
 TaskBuilding_6,TaskBuilding_40
-TaskBuilding_40,TaskBuilding_6
+HighSilo-TaskBuilding_49,TaskBuilding_6
+TaskBuilding_40,HighSilo-TaskBuilding_49
 Building_176,TaskBuilding_40
 TaskBuilding_40,Building_176
 Building_162,TaskBuilding_40
@@ -257,6 +259,8 @@ Building_225,Building_154
 Garage_224,Building_225
 Building_224,Garage_224
 Garage_224,Building_224
+Building_224,Garage_224
+Garage_224,Building_224
 Building_231,Garage_224
 Building_227,Building_231
 Building_225,Building_227
@@ -291,7 +295,8 @@ Garage_235,TaskBuilding_44
 Building_220,Garage_235
 Building_222,Building_220
 Garage_235,Building_222
-Building_154,Garage_235
+Building_175,Garage_235
+Building_154,Building_175
 TaskBuilding_44,Building_154
 TaskBuilding_45,TaskBuilding_44
 TaskBuilding_44,TaskBuilding_45
@@ -537,7 +542,8 @@ Building_138,Building_229
 Building_124,Building_138
 Building_137,Building_124
 TaskBuilding_37,Building_137
-Building_142,TaskBuilding_37
+Building_137,TaskBuilding_37
+Building_142,Building_137
 Building_229,Building_142
 TaskBuilding_37,Building_229
 Building_231,TaskBuilding_37
@@ -585,7 +591,8 @@ TaskBuilding_4,Building_131
 Building_132,TaskBuilding_4
 Building_123,Building_132
 Building_125,Building_123
-NoHit,Building_125
+Church-TaskBuilding_16,Building_125
+NoHit,Church-TaskBuilding_16
 Building_125,NoHit
 TaskBuilding_21,Building_125
 Building_125,TaskBuilding_21
@@ -767,7 +774,8 @@ Building_180,Building_184
 HighSilo-TaskBuilding_49,Building_180
 TaskBuilding_6,HighSilo-TaskBuilding_49
 House_49,TaskBuilding_6
-Building_184,House_49
+HighSilo-TaskBuilding_49,House_49
+Building_184,HighSilo-TaskBuilding_49
 TaskBuilding_51,Building_184
 Building_184,TaskBuilding_51
 TaskBuilding_51,Building_184
@@ -871,7 +879,8 @@ Building_184,Building_179
 TaskBuilding_6,Building_184
 Building_178,TaskBuilding_6
 TaskBuilding_6,Building_178
-Building_180,TaskBuilding_6
+HighSilo-TaskBuilding_49,TaskBuilding_6
+Building_180,HighSilo-TaskBuilding_49
 Building_184,Building_180
 HighSilo-TaskBuilding_49,Building_184
 Building_184,HighSilo-TaskBuilding_49
@@ -1012,6 +1021,8 @@ Building_211,TaskBuilding_8
 TaskBuilding_8,Building_211
 Building_211,TaskBuilding_8
 TaskBuilding_8,Building_211
+Building_210,TaskBuilding_8
+TaskBuilding_8,Building_210
 Building_211,TaskBuilding_8
 TaskBuilding_8,Building_211
 Building_211,TaskBuilding_8
@@ -1328,6 +1339,8 @@ Building_211,Building_210
 Building_172,Building_211
 TaskBuilding_47,Building_172
 NoHit,TaskBuilding_47
+Castle-TaskBuilding_56,NoHit
+NoHit,Castle-TaskBuilding_56
 Building_210,NoHit
 Building_214,Building_210
 Building_212,Building_214
@@ -1686,7 +1699,8 @@ Building_97,TaskBuilding_30
 TaskBuilding_30,Building_97
 TaskBuilding_27,TaskBuilding_30
 TaskBuilding_30,TaskBuilding_27
-Building_97,TaskBuilding_30
+Building_94,TaskBuilding_30
+Building_97,Building_94
 Building_108,Building_97
 Building_98,Building_108
 TaskBuilding_5,Building_98
@@ -1884,7 +1898,8 @@ Building_204,Building_206
 Building_199,Building_204
 Building_213,Building_199
 Building_198,Building_213
-Building_199,Building_198
+HighSilo-TaskBuilding_49,Building_198
+Building_199,HighSilo-TaskBuilding_49
 Building_208,Building_199
 Building_204,Building_208
 Building_201,Building_204
@@ -1923,7 +1938,8 @@ NoHit,Building_203
 Building_188,NoHit
 Building_195,Building_188
 Building_192,Building_195
-Building_188,Building_192
+HighSilo-TaskBuilding_49,Building_192
+Building_188,HighSilo-TaskBuilding_49
 Building_205,Building_188
 Building_197,Building_205
 Building_205,Building_197
@@ -2052,7 +2068,8 @@ Building_212,Building_214
 Building_214,Building_212
 Building_213,Building_214
 Building_210,Building_213
-Building_213,Building_210
+Castle-TaskBuilding_56,Building_210
+Building_213,Castle-TaskBuilding_56
 Building_210,Building_213
 TaskBuilding_8,Building_210
 Building_208,TaskBuilding_8
@@ -2125,7 +2142,8 @@ Building_225,Building_231
 Building_226,Building_225
 Building_225,Building_226
 Building_226,Building_225
-TaskBuilding_36,Building_226
+Building_225,Building_226
+TaskBuilding_36,Building_225
 Building_142,TaskBuilding_36
 Building_226,Building_142
 Building_139,Building_226
@@ -2554,7 +2572,9 @@ Building_165,Building_164
 Building_169,Building_165
 Building_166,Building_169
 Building_167,Building_166
-Building_164,Building_167
+Building_166,Building_167
+TaskBuilding_35,Building_166
+Building_164,TaskBuilding_35
 Building_165,Building_164
 Building_164,Building_165
 TaskBuilding_35,Building_164
@@ -2627,6 +2647,8 @@ Building_97,Building_96
 Building_96,Building_97
 Building_97,Building_96
 TaskBuilding_27,Building_97
+Building_101,TaskBuilding_27
+TaskBuilding_27,Building_101
 Building_102,TaskBuilding_27
 TaskBuilding_19,Building_102
 Building_94,TaskBuilding_19
@@ -2835,6 +2857,8 @@ TaskBuilding_35,Building_162
 TaskBuilding_40,TaskBuilding_35
 TaskBuilding_38,TaskBuilding_40
 TaskBuilding_40,TaskBuilding_38
+HighSilo-TaskBuilding_49,TaskBuilding_40
+TaskBuilding_40,HighSilo-TaskBuilding_49
 Building_176,TaskBuilding_40
 Building_161,Building_176
 Building_162,Building_161
@@ -2885,7 +2909,8 @@ Building_148,Building_102
 Building_149,Building_148
 TaskBuilding_5,Building_149
 TaskBuilding_35,TaskBuilding_5
-Building_101,TaskBuilding_35
+TaskBuilding_27,TaskBuilding_35
+Building_101,TaskBuilding_27
 TaskBuilding_34,Building_101
 Building_101,TaskBuilding_34
 NoHit,Building_101
@@ -3157,7 +3182,8 @@ Building_214,Building_220
 Building_233,Building_214
 Garage_235,Building_233
 Building_210,Garage_235
-Building_214,Building_210
+Building_211,Building_210
+Building_214,Building_211
 Building_166,Building_214
 Building_154,Building_166
 Building_166,Building_154
@@ -3170,11 +3196,14 @@ Building_214,TaskBuilding_48
 Building_211,Building_214
 Building_215,Building_211
 Building_210,Building_215
-Building_215,Building_210
+Building_211,Building_210
+Building_215,Building_211
 crane_2,Building_215
 Building_215,crane_2
 Building_211,Building_215
 NoHit,Building_211
+Castle-TaskBuilding_56,NoHit
+NoHit,Castle-TaskBuilding_56
 Castle-TaskBuilding_56,NoHit
 NoHit,Castle-TaskBuilding_56
 Castle-TaskBuilding_56,NoHit
@@ -3201,6 +3230,8 @@ Building_210,TaskBuilding_8
 Building_213,Building_210
 Building_212,Building_213
 Building_210,Building_212
+Building_207,Building_210
+Building_210,Building_207
 Building_213,Building_210
 Building_176,Building_213
 Building_214,Building_176
@@ -3220,7 +3251,8 @@ TaskBuilding_55,Building_199
 Building_198,TaskBuilding_55
 TaskBuilding_46,Building_198
 Building_212,TaskBuilding_46
-Building_199,Building_212
+HighSilo-TaskBuilding_49,Building_212
+Building_199,HighSilo-TaskBuilding_49
 Building_198,Building_199
 TaskBuilding_50,Building_198
 Building_208,TaskBuilding_50
@@ -3626,7 +3658,8 @@ Building_97,Building_104
 TaskBuilding_17,Building_97
 Building_88,TaskBuilding_17
 Building_79,Building_88
-Building_78,Building_79
+Windmill-TaskBuilding_10_1,Building_79
+Building_78,Windmill-TaskBuilding_10_1
 TaskBuilding_15,Building_78
 Building_83,TaskBuilding_15
 TaskBuilding_15,Building_83
@@ -3825,6 +3858,8 @@ TaskBuilding_6,Building_176
 Building_102,TaskBuilding_6
 Building_176,Building_102
 House_49,Building_176
+HighSilo-TaskBuilding_49,House_49
+House_49,HighSilo-TaskBuilding_49
 TaskBuilding_40,House_49
 Building_176,TaskBuilding_40
 House_49,Building_176
@@ -3977,6 +4012,8 @@ Building_210,Building_213
 Building_215,Building_210
 Building_211,Building_215
 Building_214,Building_211
+Building_176,Building_214
+Building_214,Building_176
 Building_211,Building_214
 TaskBuilding_8,Building_211
 Building_210,TaskBuilding_8
@@ -4224,7 +4261,8 @@ Building_165,Castle-TaskBuilding_56
 Building_139,Building_165
 Building_167,Building_139
 Building_165,Building_167
-Building_164,Building_165
+crane_1,Building_165
+Building_164,crane_1
 Building_180,Building_164
 Building_164,Building_180
 Building_162,Building_164
@@ -4465,7 +4503,8 @@ TaskBuilding_8,Building_213
 Building_212,TaskBuilding_8
 TaskBuilding_47,Building_212
 TaskBuilding_50,TaskBuilding_47
-TaskBuilding_52,TaskBuilding_50
+Building_187,TaskBuilding_50
+TaskBuilding_52,Building_187
 Building_214,TaskBuilding_52
 Building_213,Building_214
 TaskBuilding_50,Building_213
