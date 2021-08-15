@@ -1,0 +1,14 @@
+Edge1,Edge2
+Building_213,TaskBuilding_4
+Building_215,Building_213
+Building_154,Building_215
+Building_229,Building_154
+Building_154,Building_229
+Building_139,Building_154
+Building_138,Building_139
+Building_136,Building_138
+Building_228,Building_136
+Building_136,Building_228
+Building_232,Building_136
+Building_124,Building_232
+TaskBuilding_4,Building_213

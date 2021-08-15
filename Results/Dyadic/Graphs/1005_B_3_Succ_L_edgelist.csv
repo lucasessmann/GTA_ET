@@ -1,0 +1,6 @@
+Edge1,Edge2
+Building_59,TaskBuilding_1
+Building_64,Building_59
+TaskBuilding_1,Building_64
+TaskBuilding_11,TaskBuilding_1
+TaskBuilding_1,Building_59

@@ -1,0 +1,14 @@
+Edge1,Edge2
+Building_139,TaskBuilding_7
+TaskBuilding_45,Building_139
+TaskBuilding_44,TaskBuilding_45
+Garage_235,TaskBuilding_44
+Building_233,Garage_235
+Building_232,Building_233
+Garage_235,Building_232
+Building_220,Garage_235
+Building_219,Building_220
+Castle-TaskBuilding_56,Building_219
+NoHit,Castle-TaskBuilding_56
+Building_220,NoHit
+TaskBuilding_7,Building_139
