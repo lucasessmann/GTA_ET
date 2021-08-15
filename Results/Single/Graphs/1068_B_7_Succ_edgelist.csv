@@ -1,0 +1,17 @@
+Edge1,Edge2
+Garage_235,Building_152
+TaskBuilding_44,Garage_235
+Building_233,TaskBuilding_44
+Building_147,Building_233
+TaskBuilding_44,Building_147
+Building_147,TaskBuilding_44
+Building_154,Building_147
+Building_152,Building_154
+Building_147,Building_152
+Building_152,Building_147
+TaskBuilding_39,Building_152
+Building_152,TaskBuilding_39
+TaskBuilding_39,Building_152
+Building_152,TaskBuilding_39
+TaskBuilding_39,Building_152
+Building_152,Garage_235

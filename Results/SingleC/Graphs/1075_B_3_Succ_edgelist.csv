@@ -1,0 +1,15 @@
+Edge1,Edge2
+Building_64,TaskBuilding_1
+TaskBuilding_12,Building_64
+TaskBuilding_11,TaskBuilding_12
+TaskBuilding_1,TaskBuilding_11
+TaskBuilding_11,TaskBuilding_1
+TaskBuilding_1,TaskBuilding_11
+TaskBuilding_11,TaskBuilding_1
+TaskBuilding_1,TaskBuilding_11
+Building_83,TaskBuilding_1
+TaskBuilding_1,Building_83
+Building_83,TaskBuilding_1
+TaskBuilding_1,Building_83
+Building_121,TaskBuilding_1
+TaskBuilding_1,Building_64

@@ -1,0 +1,9 @@
+Edge1,Edge2
+Building_232,TaskBuilding_7
+TaskBuilding_45,Building_232
+TaskBuilding_44,TaskBuilding_45
+TaskBuilding_45,TaskBuilding_44
+Garage_235,TaskBuilding_45
+TaskBuilding_7,Garage_235
+TaskBuilding_48,TaskBuilding_7
+TaskBuilding_7,Building_232

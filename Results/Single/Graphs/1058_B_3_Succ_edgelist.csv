@@ -1,0 +1,8 @@
+Edge1,Edge2
+Building_59,Building_combined_115_116
+TaskBuilding_12,Building_59
+NoHit,TaskBuilding_12
+TaskBuilding_1,NoHit
+TaskBuilding_11,TaskBuilding_1
+TaskBuilding_1,TaskBuilding_11
+Building_combined_115_116,Building_59

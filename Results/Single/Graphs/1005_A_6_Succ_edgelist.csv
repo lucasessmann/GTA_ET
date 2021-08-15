@@ -1,0 +1,12 @@
+Edge1,Edge2
+Building_94,TaskBuilding_1
+Building_80,Building_94
+Building_96,Building_80
+Building_104,Building_96
+Building_113,Building_104
+Church-TaskBuilding_16,Building_113
+TaskBuilding_17,Church-TaskBuilding_16
+Building_110,TaskBuilding_17
+TaskBuilding_1,Building_110
+Church-TaskBuilding_16,TaskBuilding_1
+TaskBuilding_1,Building_94
