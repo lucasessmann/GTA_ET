@@ -1,0 +1,13 @@
+Edge1,Edge2
+Building_83,Building_137
+TaskBuilding_15,Building_83
+Building_84,TaskBuilding_15
+Building_85,Building_84
+Building_80,Building_85
+TaskBuilding_27,Building_80
+TaskBuilding_23,TaskBuilding_27
+Building_97,TaskBuilding_23
+Building_145,Building_97
+Building_97,Building_145
+Building_145,Building_97
+Building_137,Building_83

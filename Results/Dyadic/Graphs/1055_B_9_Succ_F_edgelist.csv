@@ -1,0 +1,17 @@
+Edge1,Edge2
+TaskBuilding_46,House_10
+TaskBuilding_40,TaskBuilding_46
+Building_103,TaskBuilding_40
+TaskBuilding_29,Building_103
+TaskBuilding_19,TaskBuilding_29
+Windmill-TaskBuilding_10_1,TaskBuilding_19
+Building_91,Windmill-TaskBuilding_10_1
+Building_90,Building_91
+Building_89,Building_90
+Building_90,Building_89
+Building_89,Building_90
+NoHit,Building_89
+Building_89,NoHit
+NoHit,Building_89
+Windmill-TaskBuilding_10_1,NoHit
+House_10,TaskBuilding_46

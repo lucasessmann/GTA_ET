@@ -1,0 +1,14 @@
+Edge1,Edge2
+Church-TaskBuilding_16,Building_62
+Building_64,Church-TaskBuilding_16
+TaskBuilding_12,Building_64
+TaskBuilding_11,TaskBuilding_12
+TaskBuilding_12,TaskBuilding_11
+Building_64,TaskBuilding_12
+TaskBuilding_12,Building_64
+TaskBuilding_9,TaskBuilding_12
+Windmill-TaskBuilding_10_1,TaskBuilding_9
+NoHit,Windmill-TaskBuilding_10_1
+Building_60,NoHit
+TaskBuilding_9,Building_60
+Building_62,Church-TaskBuilding_16

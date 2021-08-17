@@ -1,0 +1,17 @@
+Edge1,Edge2
+Building_60,Building_131
+Building_65,Building_60
+Building_66,Building_65
+TaskBuilding_15,Building_66
+Church-TaskBuilding_16,TaskBuilding_15
+TaskBuilding_1,Church-TaskBuilding_16
+Building_125,TaskBuilding_1
+Church-TaskBuilding_16,Building_125
+TaskBuilding_1,Church-TaskBuilding_16
+Building_131,TaskBuilding_1
+Building_125,Building_131
+TaskBuilding_20,Building_125
+TaskBuilding_21,TaskBuilding_20
+Building_131,TaskBuilding_21
+NoHit,Building_131
+Building_131,Building_60
