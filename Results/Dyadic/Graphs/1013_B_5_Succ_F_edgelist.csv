@@ -1,0 +1,10 @@
+Edge1,Edge2
+Building_176,Building_186
+TaskBuilding_40,Building_176
+Building_183,TaskBuilding_40
+TaskBuilding_46,Building_183
+Building_185,TaskBuilding_46
+HighSilo-TaskBuilding_49,Building_185
+Garage_185,HighSilo-TaskBuilding_49
+Building_194,Garage_185
+Building_186,Building_176

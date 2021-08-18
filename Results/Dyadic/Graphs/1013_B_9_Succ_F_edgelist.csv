@@ -1,0 +1,12 @@
+Edge1,Edge2
+TaskBuilding_40,Windmill-TaskBuilding_10_1
+Building_176,TaskBuilding_40
+TaskBuilding_40,Building_176
+Building_92,TaskBuilding_40
+Building_176,Building_92
+Building_92,Building_176
+TaskBuilding_29,Building_92
+Building_91,TaskBuilding_29
+Windmill-TaskBuilding_10_1,Building_91
+Building_89,Windmill-TaskBuilding_10_1
+Windmill-TaskBuilding_10_1,TaskBuilding_40

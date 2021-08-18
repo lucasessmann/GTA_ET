@@ -1,0 +1,17 @@
+Edge1,Edge2
+Building_141,TaskBuilding_41
+Building_150,Building_141
+TaskBuilding_35,Building_150
+HighSilo-TaskBuilding_49,TaskBuilding_35
+TaskBuilding_35,HighSilo-TaskBuilding_49
+Building_171,TaskBuilding_35
+Building_167,Building_171
+TaskBuilding_42,Building_167
+Building_175,TaskBuilding_42
+TaskBuilding_42,Building_175
+Building_173,TaskBuilding_42
+Building_172,Building_173
+TaskBuilding_40,Building_172
+TaskBuilding_41,TaskBuilding_40
+Building_170,TaskBuilding_41
+TaskBuilding_41,Building_141

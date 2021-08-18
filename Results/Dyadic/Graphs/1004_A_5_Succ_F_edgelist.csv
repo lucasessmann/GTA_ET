@@ -1,0 +1,6 @@
+Edge1,Edge2
+Garage_185,TaskBuilding_29
+House_49,Garage_185
+Building_102,House_49
+Building_103,Building_102
+TaskBuilding_29,Garage_185

@@ -1,0 +1,11 @@
+Edge1,Edge2
+Building_92,Building_186
+Building_176,Building_92
+TaskBuilding_38,Building_176
+Building_177,TaskBuilding_38
+Building_188,Building_177
+Building_179,Building_188
+Building_180,Building_179
+Building_179,Building_180
+Garage_185,Building_179
+Building_186,Building_92
