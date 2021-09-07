@@ -1,1 +1,5 @@
 *_CompleteHitpoints.csv
+
+.ipynb_checkpoints/*
+
+*.yml
