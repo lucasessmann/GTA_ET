@@ -5,4 +5,4 @@
 __pycache__
 test.csv
 Ressources/pre/local_data/
-
+*.yml
