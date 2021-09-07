@@ -1,7 +1,7 @@
 *_CompleteHitpoints.csv
 *.zip
 .DS_Store
-.ipynb_checkpoints
+.ipynb_checkpoints/*
 __pycache__
 test.csv
 Ressources/pre/local_data/
