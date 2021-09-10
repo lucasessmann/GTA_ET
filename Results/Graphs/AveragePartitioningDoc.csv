@@ -1,2 +1,2 @@
-Subject,Eigenvalue,Complete Edges,C1 Edges,C2 Edges,Cut Edges,Total Nodes,C1 Nodes,C2 Nodes,Complete Degree,C1 Degree,C2 Degree,Complete Density,C1 Density,C2 Density
-1043.0,0.47,1459.04,452.96,890.08,116.0,240.31,95.88,144.42,12.14,9.42,12.23,0.05,0.1,0.09
+Subject,Unconnected Nodes,Unconnected Component Nodes,Eigenvalue,Complete Edges,L Edges,R Edges,Cut Edges,Total Nodes,L Nodes,R Nodes,Complete Degree,L Degree,R Degree,Complete Density,L Density,R Density
+1043.0,2.38,0.15,0.2,951.15,629.96,267.04,54.15,237.77,149.85,87.92,7.98,8.34,6.0,0.03,0.06,0.07
