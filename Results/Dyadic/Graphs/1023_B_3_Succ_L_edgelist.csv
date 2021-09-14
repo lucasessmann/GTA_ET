@@ -1,5 +1,13 @@
 Edge1,Edge2
-Building_64,Church-TaskBuilding_16
-Building_67,Building_64
-TaskBuilding_15,Building_67
-Church-TaskBuilding_16,Building_64
+NoHouse,NoHouse
+Phone,NoHouse
+Avatar,Phone
+NoHouse,Avatar
+Phone,NoHouse
+NoHouse,Phone
+Building_67,NoHouse
+NoHouse,Building_67
+TaskBuilding_15,NoHouse
+NoHouse,TaskBuilding_15
+TaskBuilding_1,NoHouse
+NoHouse,NoHouse
